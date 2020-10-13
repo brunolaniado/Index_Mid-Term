@@ -1,0 +1,72 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body {
+	background-color:#67B3E2;
+	padding-top: 18px;
+}
+
+h1 {
+	font-family: 'Notable', sans-serif;
+	background-color: #2A239B;
+}
+
+h3 {
+	font-size: 12px;
+}
+
+p {
+	font-family: 'Open Sans', sans-serif;
+}
+
+jumbotron {
+	margin: auto;
+	background-color:aliceblue;
+	line-height: 1;
+	height: 170px;
+}
+
+row {
+	padding: 30px;
+	height: 300px;
+	width: 100%;
+}
+
+headerimage {
+	display: block;
+	max-width: 100%;
+	height: auto;
+}
+
+caption{
+	text-align: right;
+}
+
+classes1 {
+	display: block;
+	margin: auto;
+	width: 600px;
+	height: 100%;
+}
+
+p-2 {
+	width: 600px;
+}
+
+footer {
+	height: 100px;
+	background-color:#000674;
+	margin-top:50px;
+}
+
+footer,
+push {
+	height: 50px;
+	margin-top: 350px;
+}
+
+footer h3 {
+	text-align: center;
+	padding-top: 10px;
+	background-color:#FDFDFD
+}
